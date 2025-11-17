@@ -3,6 +3,15 @@
 This is the backend **RAG (Retrieval-Augmented Generation)** system for Lemonaid, powered by vector search, the Gemini API, and Hugging Face MiniLM.
 It enables powerful, context-aware AI agents for chatbots, image queries, and summarization.
 
+This public version of the project has been modified to comply with data sharing agreements. All data and underlying support previously supplied by our external supply chain collaboration partner have been removed.
+
+Backend Contributors:
+| Contributor | GitHub Profile |
+| :--- | :--- |
+| **Tim** | [Tim](https://github.com/timjtchang) |
+| **Tony** | [Tony](https://github.com/LuoZihYuan) |
+| **Tom** | [Tom](https://github.com/tom89622) |
+
 ---
 
 ## 🚀 Quickstart: Running the Server
