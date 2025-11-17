@@ -1,0 +1,10 @@
+src/**/__pycache__/
+
+tests/
+
+.DS_Store
+.env
+poetry.lock
+sources
+src/data/*
+# src/IFI_Table_Files/*

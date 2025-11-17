@@ -1,0 +1,21 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.env
+.env.*
+venv
+.git
+.gitignore
+.pytest_cache
+tests
+init
+file_samples
+scripts
+.github
+README.md
+setup.sh
+
+# Exclude data files that aren't needed in Lambda
+src/IFI_Table_Files/*.md
