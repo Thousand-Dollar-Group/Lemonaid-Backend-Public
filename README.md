@@ -11,6 +11,7 @@ Backend Contributors:
 | **Tim** | [Tim](https://github.com/timjtchang) |
 | **Tony** | [Tony](https://github.com/LuoZihYuan) |
 | **Tom** | [Tom](https://github.com/tom89622) |
+| **Brian** | [Brian](https://github.com/LinkouCommander) |
 
 ---
 
